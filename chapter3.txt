@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THis is a file which is created to checkout the working of branching and merging
+=======
+Hence the working of branching and merging is checked
+>>>>>>> sub-chap3
