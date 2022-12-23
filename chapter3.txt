@@ -1,1 +1,1 @@
-Git git git
+Hence the working of branching and merging is checked
